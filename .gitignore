@@ -18,3 +18,7 @@
 /source/.DS_Store
 .rvmrc
 /data/github.yml
+
+*.swp
+*.swo
+Gemfile.lock

@@ -6,6 +6,7 @@ gem "middleman", ">= 3.0.6"
 gem "middleman-bourbon"
 gem "middleman-deploy"
 gem "middleman-blog"
+gem "thin"
 
 gem 'handlebars_assets'
 gem 'octokit'
@@ -16,7 +17,11 @@ gem "json"
 
 group :development do
   gem "debugger"
-
+  gem "heroku"
+  gem "watchr"
+  gem "rb-fsevent"
+  gem "growl_notify"
+  
   # setup guard
   gem "guard", ">= 1.0.0"
   gem "guard-coffeescript", ">= 0.4.0"
