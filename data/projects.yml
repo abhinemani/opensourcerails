@@ -1,8 +1,8 @@
 -
-  id: "spree"
-  title: "Spree"
+  id: "mindmixer"
+  title: "MindMixer"
   tagline: "a flexible e-commerce platform"
-  github_project: "spree/spree"
+  github_project: ""
   site_url: "http://spreecommerce.com/"
   demo_url: "http://spreecommerce.com/demo"
   twitter: "spreecommerce"
@@ -27,8 +27,8 @@
       if you get stuck or need help.
 
 -
-  id: "gitlab"
-  title: "GitLab"
+  id: "auntbertha"
+  title: "Aunt Bertha"
   tagline: "self hosted Git management"
   github_project: "gitlabhq/gitlabhq"
   site_url: "http://gitlabhq.com/"
@@ -48,8 +48,8 @@
     * **Gitlab CI:** self hosted continuous integration server closely integrated
       with Gitlab.
 -
-  id: "diaspora"
-  title: "Diaspora"
+  id: "textizen"
+  title: "Textizen"
   tagline: "community-run, distributed social-network"
   github_project: "diaspora/diaspora"
   site_url: "https://joindiaspora.com/"
@@ -69,8 +69,8 @@
       without registering on anyone else's server.
     * **No lock-in:** migrate pods or export all of your user data.
 -
-  id: "redmine"
-  title: "Redmine"
+  id: "learnsprout"
+  title: "LearnSprout"
   tagline: "web based project management"
   github_project: "edavis10/redmine"
   site_url: "http://www.redmine.org/"
@@ -94,8 +94,8 @@
     * Email integration
     * Stable and battle tested
 -
-  id: "fatfreecrm"
-  title: "Fat Free CRM"
+  id: "flushot"
+  title: "Flu Shot Tracker"
   tagline: "a clean, customizable CRM"
   github_project: "fatfreecrm/fat_free_crm"
   site_url: "http://www.fatfreecrm.com/"
@@ -110,8 +110,8 @@
     Manage leads, build campaigns, track accounts, close sales. It also has group
     collaboration, contact lists and opportunity tracking.
 -
-  id: "selfstarter"
-  title: "Self Starter"
+  id: "captricity"
+  title: "Captricity"
   tagline: "roll your own crowdfunding"
   github_project: "lockitron/selfstarter"
   site_url: "http://selfstarter.us/"
@@ -123,8 +123,8 @@
     Host your own crowdfunding site for your project. Integrates with Amazon Payments.
     Similar to Kickstarter, except for 1 project.
 -
-  id: "locomotivecms"
-  title: "Locomotive CMS"
+  id: "measuredvoice"
+  title: "MeasuredVoice"
   tagline: "a multisite CMS with liquid templating"
   github_project: "locomotivecms/engine"
   site_url: "http://locomotivecms.com/"
@@ -137,8 +137,8 @@
     Powerful multi-site CMS with built in integration with Heroku and Amazon. Uses
     Mongodb and Liquid templates.
 -
-  id: "obtvse"
-  title: "Obtvse"
+  id: "revelstone"
+  title: "Revelstone"
   tagline: "simple markdown-powered blog platform"
   github_project: "natew/obtvse"
   site_url: "http://obtvse.herokuapp.com/"
@@ -150,8 +150,8 @@
   description: |
     A clean and simple markdown blog application, inspired by Svbtle.
 -
-  id: "squash"
-  title: "Squash"
+  id: "blightstatus"
+  title: "BlightStatus"
   tagline: "exception reporting and bug analysis by Square"
   github_project: "SquareSquash/web"
   site_url: "http://squash.io/"
@@ -177,8 +177,8 @@
     - "Error Reporting"
     - "Developers"
 -
-  id: "errbit"
-  title: "Errbit"
+  id: "localdata"
+  title: "LocalData"
   tagline: "open source, self-hosted error catcher"
   github_project: "errbit/errbit"
   site_url: "https://github.com/errbit/errbit"
@@ -199,10 +199,10 @@
     * **Firewall:** it's an intranet application behind a Firewall
     * **Customization:** if you want to modify or brand the exception notifier
 -
-  id: "fulcrum"
-  title: "Fulcrum"
+  id: "adopta"
+  title: "Adopta"
   tagline: "agile project planning, clone of Pivotal Tracker"
-  github_project: "malclocke/fulcrum"
+  github_project: "codeforamerica/adopta"
   site_url: "http://wholemeal.co.nz/projects/fulcrum.html"
   twitter: "malclocke"
   screencast_url: ""
@@ -217,10 +217,10 @@
     the full agile methodology, but found Pivotal Tracker to be too much, then this
     app might be a good fit for you.
 -
-  id: "kandan"
-  title: "Kandan"
+  id: "discoverbps"
+  title: "DiscoverBPS"
   tagline: "web based team chat"
-  github_project: "kandanapp/kandan"
+  github_project: "codeforamerica/schoolselection"
   site_url: "http://kandanapp.com/"
   # embed: |
   #   <script type="text/javascript" id="vidyard_embed_code_bcoiYmbh6rAKsDgZt5qr3Q" src="//embed.vidyard.com/embed/bcoiYmbh6rAKsDgZt5qr3Q/inline?width=1000&height=563&v=2.2"></script>
@@ -235,11 +235,11 @@
     A chat app with an elegant, clean design. Features include seachable message history, file
     uploads, managing multiple chatrooms, shared room audio and hubot integration.
 -
-  id: "chiliproject"
-  title: "ChiliProject"
+  id: "opencounter"
+  title: "OpenCounter"
   tagline: "web based project management (forked from redmine)"
   github_project: "chiliproject/chiliproject"
-  site_url: "https://www.chiliproject.org/"
+  site_url: "http://opencounter.cityofsantacruz.org/"
   twitter: "chiliproject"
   screencast_url: ""
   categories:
@@ -252,8 +252,8 @@
     open and transparent to its community of developers, and appears to have a more intuitive
     user interface out of the box.
 -
-  id: "copycopter"
-  title: "Copycopter"
+  id: "hnlanswers"
+  title: "HNL Answers"
   tagline: "let your clients do the copy writing"
   github_project: "copycopter/copycopter-server"
   site_url: "http://copycopter.com/"
@@ -269,8 +269,8 @@
     write the copy for their application without access to the codebase. Supports
     internationalization out of the box.
 -
-  id: "lobsters"
-  title: "Lobste.rs"
+  id: "servicetracker"
+  title: "311 Service Tracker"
   tagline: "link-aggregation site, inspired by Hacker News"
   github_project: "jcs/lobsters"
   site_url: "http://lobste.rs"
@@ -284,8 +284,8 @@
     Run your own link link aggregation community with Lobste.rs. Comes with voting, tagging, commenting
     and user management.
 -
-  id: "refinerycms"
-  title: "Refinery CMS"
+  id: "shareabouts"
+  title: "ShareAbouts"
   tagline: "a modular and extendable CMS"
   github_project: "refinery/refinerycms"
   site_url: "http://refinerycms.com"
@@ -308,8 +308,8 @@
     * **Modular and extendable**
 
 -
-  id: "rstatus"
-  title: "rstat.us"
+  id: "localwiki"
+  title: "LocalWiki"
   tagline: "open standards microblogging platform"
   github_project: "hotsh/rstat.us"
   site_url: "http://rstat.us"
@@ -326,8 +326,8 @@
     Simplicity is a core 'feature' of rstat.us. We pride ourselves on saying 'no' to lots of features. Our interface is clean, and easy to understand. We give you just enough features to be interesting, but not enough to be complicated and confusing.
 
 -
-  id: "amahi"
-  title: "Amahi"
+  id: "blockee"
+  title: "Blockee"
   tagline: "your personal cloud and media server"
   github_project: "amahi/platform"
   site_url: "http://www.amahi.org/"
@@ -354,8 +354,8 @@
 
 -
   queued: true
-  id: "forem"
-  title: "Forem"
+  id: "clickthathood"
+  title: "Click That Hood"
   tagline: "a pluggable forum"
   github_project: "radar/forem"
   site_url: "https://github.com/radar/forem"
@@ -392,8 +392,8 @@
     * Flexible configuration
     * Integration with [Refinery CMS](https://github.com/resolve/refinerycms)
 -
-  id: "sprintapp"
-  title: "SprintApp"
+  id: "citygroups"
+  title: "CityGroups"
   tagline: "makes time tracking and project management easy"
   github_project: "macfanatic/SprintApp"
   site_url: "http://sprintapp.com/"
@@ -417,9 +417,9 @@
     * Employee timesheet
     * Sprint planning
 -
-  id: "mixturefm"
-  title: "Mixture.fm"
-  tagline: "mixes for the masses"
+  id: "recovers"
+  title: "Recovers.org"
+  tagline: "community-powered disaster recovery"
   github_project: "erickreutz/mixturefm"
   site_url: "http://mixture.fm"
   demo_url: "http://mixture.fm"
@@ -431,27 +431,8 @@
     - "Social"
   description: |
     **The best and organized DJ mixes from around the world**
-
     Built with Rails and Backbone.js, Mixture.fm is the complete, concise, organized,
     and handpicked stockpile of the best DJ mixes from around the world.
--
-  id: "hackety"
-  title: "Hackety Hack"
-  tagline: "learn the basics of programming with Ruby"
-  github_project: "hacketyhack/hackety-hack.com"
-  site_url: "http://hackety.com"
-  twitter: "hacketyhack"
-  screencast_url: ""
-  categories:
-    - "Learning Management System"
-    - "Social"
-
-  description: |
-    **Learning management system that powers Hackety.com**
-
-    The Hackety-hack.com project is a learning management system with the ability to
-    work through lessons, ask questions, upload programs, and everything else you see
-    on Hackety.com
 
 
 
